@@ -1,0 +1,7 @@
+{
+    "mappings": {
+        "wp-content/plugins": "./plugins",
+        "wp-content/themes/wordpress-developer-theme": "./",
+        ".htaccess": "./server/.htaccess"
+    }
+}

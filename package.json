@@ -1,0 +1,27 @@
+{
+  "name": "template-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx wp-env start",
+    "stop": "npx wp-env stop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/env": "^8.3.0",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.4.0",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.64.1"
+  }
+}
